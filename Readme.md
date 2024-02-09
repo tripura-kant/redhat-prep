@@ -1,1 +1,1 @@
-R
+redhat@linux
